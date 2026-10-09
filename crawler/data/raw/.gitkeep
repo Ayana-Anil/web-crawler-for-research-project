@@ -1,0 +1,2 @@
+# This directory stores raw JSONL files produced by the crawler.
+# Do not commit large data files to version control.
